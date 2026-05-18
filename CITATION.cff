@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: Avalanche activity forecasting with LSTM
+authors:
+  - family-names: Sampalo
+    given-names: Fernando
+version: 1.0.0
+date-released: "2026-05-18"
+license: MIT
+repository-code: "https://github.com/REPLACE_ME/REPLACE_ME"
+abstract: >-
+  PyTorch LSTM models for avalanche-related activity indices (Davos),
+  with outlier handling, baselines, and Utah generalization experiments.
+keywords:
+  - deep learning
+  - LSTM
+  - avalanche
+  - time series
+  - PyTorch
