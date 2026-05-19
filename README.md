@@ -8,15 +8,11 @@ Small deep-learning coursework project: daily **Avalanche Activity Index (AAI)**
 
 | Item | Description |
 |------|-------------|
-| `trabajo_fernandosampalo.ipynb` | Main notebook (English comments and narrative). Run top to bottom after installing dependencies. |
-| `trabajo_fernandosampalo.pdf` | Written report (if present in your copy). |
-| `trabajo.tex` | LaTeX source for the report (English). |
+| `lstm.ipynb` | Main notebook (English comments and narrative). Run top to bottom after installing dependencies. |
+| `report.pdf` | Written report (if present in your copy). |
 | `requirements.txt` | Python dependencies. |
-| `Makefile` | Optional automation (`venv`, `install`, `nb-clear`, `pdf`, …). |
 | `LICENSE` | MIT license for code and docs in this repo. |
-| `NOTICE` | Third-party data / dependency attribution note. |
 | `CITATION.cff` | Machine-readable citation metadata for GitHub. |
-| `CONTRIBUTING.md` / `SECURITY.md` | Contribution and security policy. |
 | `.gitignore`, `.gitattributes`, `.editorconfig`, `.env.example` | Tooling and local config template. |
 | `data_set_*.csv`, `davos_weather_*.csv`, `CLN_*.csv` | Input CSVs (semicolon-separated where applicable). |
 | `photos/` | Exported figures from the experiments. |
