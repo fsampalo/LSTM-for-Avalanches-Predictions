@@ -74,11 +74,3 @@ make pdf            # requires pdflatex; output is trabajo.pdf
 ```
 
 Without `make`, use the same tools directly (`pip`, `jupyter nbconvert`, `pdflatex`) as in earlier sections.
-
-## Contributing
-
-See [`CONTRIBUTING.md`](CONTRIBUTING.md).
-
-## Security
-
-See [`SECURITY.md`](SECURITY.md).
